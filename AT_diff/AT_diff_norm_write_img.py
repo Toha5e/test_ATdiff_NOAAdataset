@@ -1,3 +1,8 @@
+'''
+this script compares the monthly air temperature with the norm.
+The result is written to the georeferenced raster
+links for download datasets in file "links.txt"
+'''
 import netCDF4
 import numpy as np
 import time
@@ -67,7 +72,7 @@ base_time=5364662400
 corect_time=(time_arr_mon[864]*3600)-base_time
 #print(time.ctime(corect_time))
 
-index_list=[864,865,866,867,868,869,870,871,872,873,874,875]
+index_list=[864,865,866,867,868,869,870,871,872,873,874,875] 
 
 base_time=5364662400
 for i in range(0,12,1):
