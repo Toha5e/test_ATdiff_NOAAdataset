@@ -1,0 +1,9 @@
+https://psl.noaa.gov/thredds/catalog/Datasets/ghcncams/catalog.html
+
+https://psl.noaa.gov/data/gridded/data.ghcncams.html
+
+
+
+ftp://ftp.cdc.noaa.gov/Datasets/ghcncams/air.mon.mean.nc
+
+ftp://ftp.cdc.noaa.gov/Datasets/ghcncams/Derived/air.mon.1981-2010.ltm.nc
